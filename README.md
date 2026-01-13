@@ -1,7 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/K4eslJRu)
 # :wave: The Basics of GitHub 
 
-## 🤓 Course overview and learning outcomes 
+Eva Caravassilis - From this assignment, I learned how to navigate the terminal and how to work my way through GitHub as well as VS Code. I managed to familiarize myself with VS Code and had an interesting time learning different vocabulary and the Python language. 
+
+## 🤓 Course overview and learning outcomes
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
@@ -33,7 +35,7 @@ Once you have a commit or multiple commits that you’re ready to add to your re
 
 ## 💻 GitHub terms to know 
 
-### Repositories 
+### Repositories
 We mentioned repositories already, they are where your project work happens, but let’s talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you’re logged in to see it!
 
 Repositories also contain **README**s. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. We are using this README to communicate how to learn Git and GitHub with you. 😄 
